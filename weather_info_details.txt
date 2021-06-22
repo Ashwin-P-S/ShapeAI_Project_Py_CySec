@@ -1,0 +1,27 @@
+
+----------------------------------------
+
+Location :Madurai
+
+Date | Time :22 Jun 2021 | 04:54:12 AM
+
+Temperature :32.01 deg C
+
+Weather Description :Scattered Clouds
+
+Humidity :51 %
+
+----------------------------------------
+
+----------------------------------------
+Location :Chennai
+
+Date | Time :22 Jun 2021 | 04:54:38 AM
+
+Temperature :31.09 deg C
+
+Weather Description :Broken Clouds
+
+Humidity :74 %
+
+----------------------------------------
